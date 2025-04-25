@@ -8,7 +8,12 @@ int num2;
 int num3;
 int result;
 
-printf("Digite um número: \n";
+printf("Digite a primeira nota: \n");
 scanf("d%", num1);
-
+printf("Digite a segunda nota: \n");
+scanf("d%", num2);
+printf("Digite a terceira nota: \n");
+scanf("d%", num3);
+result = (num1+num2+num3)/3;
+printf("Sua nota final é d%", result);
 }
