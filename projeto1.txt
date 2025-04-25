@@ -1,2 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+void main(){
+
+int num1
+int num2
+int num3
+int result
+
+}
