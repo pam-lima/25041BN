@@ -8,4 +8,7 @@ int num2
 int num3
 int result
 
+printf("Digite um número: \n"
+scan(
+
 }
