@@ -3,12 +3,12 @@
 
 void main(){
 
-int num1
-int num2
-int num3
-int result
+int num1;
+int num2;
+int num3;
+int result;
 
-printf("Digite um número: \n"
-scan(
+printf("Digite um número: \n";
+scanf("d%", num1);
 
 }
